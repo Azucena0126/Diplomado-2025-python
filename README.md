@@ -1,0 +1,2 @@
+# Diplomado-2025-python
+THIS IS A COURSE IN PYTHON FOR PUCP 
