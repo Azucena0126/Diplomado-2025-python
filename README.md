@@ -13,8 +13,16 @@ THIS IS A COURSE IN PYTHON FOR PUCP
 3. Psicology
 4. Economist
 
+
+## Movies
+1. Orgullo y Prejuicio
+2. Opemheimer
+3. Harry Potter
+4. Long legs
+
 ## Actors
 1. Liam Neeson
 2. Pedro Pascal
 3. Denzel Washintong
 4. Adam Sandler
+
