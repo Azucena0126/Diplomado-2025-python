@@ -26,3 +26,8 @@ THIS IS A COURSE IN PYTHON FOR PUCP
 3. Denzel Washintong
 4. Adam Sandler
 
+## Scools
+1. La Union
+2. CET34
+3. Jose Pardo
+4. Colegio Guadalupe
