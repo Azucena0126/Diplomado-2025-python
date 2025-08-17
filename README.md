@@ -6,3 +6,9 @@ THIS IS A COURSE IN PYTHON FOR PUCP
 2. Anel Vasquez
 3. Luis Ramos
 4. Lesly Leon
+
+## Faculty
+1. Economist
+2. Sociology
+3. Psicology
+4. Economist
