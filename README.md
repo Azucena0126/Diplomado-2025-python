@@ -12,3 +12,9 @@ THIS IS A COURSE IN PYTHON FOR PUCP
 2. Sociology
 3. Psicology
 4. Economist
+
+## Movies
+1. Orgullo y Prejuicio
+2. Opemheimer
+3. Harry Potter
+4. Long legs
